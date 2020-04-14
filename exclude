@@ -1,0 +1,8 @@
+*.idea
+.git/**
+.gitlab-ci.*
+*.md
+*.png
+*.jpg
+*.jpeg
+*.gif
